@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vaibhavi_suvarn" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhavi_suvarn?logo=twitter&style=for-the-badge" alt="vaibhavi_suvarn" /></a> </p>
 
-- 💬 Ask me about **Python,Css,Rdbms,Testing**
+- 💬 Ask me about **Python,Css,Rdbms,Testing,Java,PostgreSql,React,JavaScript**
 
 - 📫 How to reach me **vaibhavisuvarna7@gmail.com**
 
